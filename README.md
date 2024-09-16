@@ -33,8 +33,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vedantmarwadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vedantmarwadi" height="30" width="40" /></a>
-<a href="https://kaggle.com/vedantmarwadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vedantmarwadi" height="30" width="40" /></a>
-<a href="https://instagram.com/vedant_marwadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vedant_marwadi" height="30" width="40" /></a>
+<!--  <a href="https://kaggle.com/vedantmarwadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vedantmarwadi" height="30" width="40" /></a> -->
+<!--  <a href="https://instagram.com/vedant_marwadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vedant_marwadi" height="30" width="40" /></a> -->
 </p>
 <hr>
 
