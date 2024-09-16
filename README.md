@@ -3,6 +3,14 @@
 
 <img src="https://camo.githubusercontent.com/f8672e0c6ebb1a0a67c4fecd418a116f01010bbdfaea4ebca6d193d69325e2fe/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f666978706172726f742e676966" alt="Description of the image">
 
+<pre>
+<code>
+  /\_/\  
+ ( o.o ) 
+  > ^ <
+</code>
+    </pre>
+
 
 <hr>
 <h3 align="left">Connect with me:</h3>
