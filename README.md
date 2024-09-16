@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Vedant Marwadi</h1>
 <h4 align="center">Are we what we do with time, or are we what time does with us?</h4>
-<hr>
+
 
 ████████████████████████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
 ████████████████████████████████████████████████████████████  ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
@@ -24,13 +24,7 @@
 ▀▀▀▀▀▀▀▀▀▀▀▀▀-     ▀▀▀▀▀▀▀▀▀▀       '╧╧╧╧╧╧╧╧╧`     ╚ ╧╧╧- ▀  ╚═╝     ╚═╝╚══════╝╚══════╝   ╚═╝        ╚═╝    ╚═════╝  ╚═════╝
 
 
-- 🌱 I’m currently learning **Big Data, Cloud Computing, Machine Learning, Cyber Security, Digital Forensics**
 
-- 📝 I regularly write blogs on [https://heuristicbot.blogspot.com](https://heuristicbot.blogspot.com)
-
-- 📫 You can reach me at **vedantmarwadi103@gmail.com**
-
-- ⚡ Fun fact **I like hacking refrigerators**
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
